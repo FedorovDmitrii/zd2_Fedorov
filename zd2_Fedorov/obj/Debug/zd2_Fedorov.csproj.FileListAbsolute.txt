@@ -1,0 +1,10 @@
+C:\Users\MaxxPC\Desktop\C#\Задание 2\zd2_Fedorov\zd2_Fedorov\obj\Debug\zd2_Fedorov.csproj.AssemblyReference.cache
+C:\Users\MaxxPC\Desktop\C#\Задание 2\zd2_Fedorov\zd2_Fedorov\obj\Debug\zd2_Fedorov.Properties.Resources.resources
+C:\Users\MaxxPC\Desktop\C#\Задание 2\zd2_Fedorov\zd2_Fedorov\obj\Debug\zd2_Fedorov.csproj.GenerateResource.cache
+C:\Users\MaxxPC\Desktop\C#\Задание 2\zd2_Fedorov\zd2_Fedorov\obj\Debug\zd2_Fedorov.csproj.CoreCompileInputs.cache
+C:\Users\MaxxPC\Desktop\C#\Задание 2\zd2_Fedorov\zd2_Fedorov\bin\Debug\zd2_Fedorov.exe.config
+C:\Users\MaxxPC\Desktop\C#\Задание 2\zd2_Fedorov\zd2_Fedorov\bin\Debug\zd2_Fedorov.exe
+C:\Users\MaxxPC\Desktop\C#\Задание 2\zd2_Fedorov\zd2_Fedorov\bin\Debug\zd2_Fedorov.pdb
+C:\Users\MaxxPC\Desktop\C#\Задание 2\zd2_Fedorov\zd2_Fedorov\obj\Debug\zd2_Fedorov.exe
+C:\Users\MaxxPC\Desktop\C#\Задание 2\zd2_Fedorov\zd2_Fedorov\obj\Debug\zd2_Fedorov.pdb
+C:\Users\MaxxPC\Desktop\C#\Задание 2\zd2_Fedorov\zd2_Fedorov\obj\Debug\zd2_Fedorov.Form1.resources
